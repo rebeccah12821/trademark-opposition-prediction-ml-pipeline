@@ -65,7 +65,5 @@ python main.py
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-
-Your Name – your.email@example.com
-
+By Rebeccah 
 Project Link: https://github.com/rebeccah12821/trademark-opposition-prediction-ml-pipeline
